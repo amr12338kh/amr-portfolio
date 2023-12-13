@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "HTML",
+        "image": "/html-1.svg",
+        "link": "https://react.dev"
+    },
+    {
+        "id": 1,
+        "title": "CSS",
+        "image": "/css-3.svg",
+        "link": "https://react.dev"
+    },
+    {
+        "id": 2,
+        "title": "Javascript",
+        "image": "/logo-javascript.svg",
+        "link": "https://react.dev"
+    },
+    {
+        "id": 3,
+        "title": "Typescript",
+        "image": "/typescript.svg",
+        "link": "https://react.dev"
+    },
+    {
+        "id": 4,
+        "title": "React.js",
+        "image": "/react-2.svg",
+        "link": "https://react.dev"
+    },
+    {
+        "id": 5,
+        "title": "Next.js",
+        "image": "/next-js.svg",
+        "link": "https://react.dev"
+    },
+    {
+        "id": 6,
+        "title": "Tailwind CSS",
+        "image": "/tailwind-css-2.svg",
+        "link": "https://tailwindcss.com"
+    },
+    {
+        "id": 7,
+        "title": "Github",
+        "image": "/github-icon-1.svg",
+        "link": "https://tailwindcss.com"
+    }
+]

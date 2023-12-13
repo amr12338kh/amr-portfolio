@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "title": "🌐 Versatility",
+        "subtitle": "Whether you&apos;re starting from scratch or enhancing an existing project, I adapt to your unique needs. My versatility allows me to seamlessly integrate into your development workflow.",
+        "image": "/versatility-1.png"
+    },
+    {
+        "id": 1,
+        "title": "🕐 Timely Delivery",
+        "subtitle": "I understand the importance of deadlines. Rest assured, your project will be delivered on time without compromising on quality.",
+        "image": "/timely-delivery-1.png"
+    },
+    {
+        "id": 2,
+        "title": "📈 Results-Driven",
+        "subtitle": "My focus is on delivering tangible results. Your success is my priority, and I work diligently to exceed your expectations.",
+        "image": "/results-driven-1.png"
+    }
+]

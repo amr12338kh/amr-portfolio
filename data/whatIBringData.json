@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Next.js Expertise",
+        "subtitle": "With a strong command of Next.js, I excel in building high-performance web applications. Whether it&apos;s leveraging server-side rendering for optimal SEO or harnessing the power of dynamic routing, I bring Next.js&apos;s capabilities to the forefront of your project.",
+        "image": "/next-expertise-1.png"
+    },
+    {
+        "id": 1,
+        "title": "Responsive UI Design",
+        "subtitle": "Crafting visually appealing and responsive user interfaces is my forte. I ensure your web application looks stunning on all devices, providing users with a consistent and enjoyable experience.",
+        "image": "/responsive-1.png"
+    },
+    {
+        "id": 2,
+        "title": "API Integration",
+        "subtitle": "Need to fetch data from APIs seamlessly? I&apos;ve got it covered. I specialize in integrating APIs efficiently, ensuring your application remains dynamic and up-to-date with the latest content.",
+        "image": "/API-1.png"
+    },
+    {
+        "id": 3,
+        "title": "Code Optimization",
+        "subtitle": "Your users deserve a fast and responsive application. I&apos;m committed to writing clean and optimized code, implementing performance improvements to guarantee a lightning-fast user experience.",
+        "image": "/optimizatio-1.png"
+    }
+]
